@@ -70,7 +70,7 @@
 - SQLite
 
 #### 🧠 Dataset:
-- [heart.csv on GitHub](https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/Machine_Learning/heart.csv)
+- [heart.csv on GitHub](https://github.com/GirdharGopal21/Heart-Disease-Prediction-Using-Mchine-Learning/tree/e34936df7611e7c68224db38279d2f64f89117a1/Machine_Learning)
 
 #### 🛠️ IDEs:
 - VS Code, PyCharm
@@ -100,16 +100,6 @@ def prdict_heart_disease(list_data):
     pred = nn_model.predict([list_data])
     ...
 ```
-
----
-
-### 📄 **Full Report**
-- [Click Here for Project Report PDF](https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/REPORT/PYTHON%20CAPSTONE%20PROJECT%20REPORT%20(TEAM%202).pdf)
-
----
-
-### 📽️ **Demo Video**
-- [Click Here for Demo](https://amritacampuschennai-my.sharepoint.com/:v:/g/personal/ch_en_u4cse20005_ch_students_amrita_edu/ESuaLdQqmNdFjzSBcMiTpaABWPQ2kZWEwCJ53HsY3UdHHg)
 
 ---
 
