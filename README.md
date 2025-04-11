@@ -83,7 +83,7 @@
 ### ▶️ **Run Locally**
 
 ```bash
-git clone https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System
+git clone https://github.com/GirdharGopal21/Heart-Disease-Prediction-Using-Mchine-Learning.git
 cd Heart-Disease-Prediction-System
 python manage.py runserver
 ```
